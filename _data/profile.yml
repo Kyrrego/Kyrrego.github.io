@@ -4,7 +4,7 @@ navbar_name: "Yunrui Zhang"
 
 positions:
 - name: Incoming ECE Ph.D. Student @ Cornell University
-- logo: /assets/images/badges/Tsinghua_University_Logo.svg
+- logo: ./assets/images/badges/Tsinghua_University_Logo.svg
   name: B.Eng., Tsinghua University (2024)
 
 email: "yz3275@cornell.edu"
@@ -15,34 +15,34 @@ github: Kyrrego
 wechat_qrcode: /assets/images/etc/wechat_qr.JPG
 wechat_prompt: >-
   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
-linkedin: 5b465b279
+linkedin: yunrui-zhang-5b465b279
 # orcid: 0000-0000-0000-0000
 
-short_bio: >-
-  Hi! I am Yunrui Zhang (张芸睿), an incoming ECE Ph.D. student at Cornell University. I obtained my bachelor's degree at Tsinghua University, where I was very fortunate to be advised by Prof. Gangtie Zheng, Prof. Mingguo Zhao and Prof. Rebing Wu.
-  
-
-  My research interests lie broadly in the intersection of machine learning and advanced healthcare, including Magnetic Resonance Imaging (MRI), multi-modal medical imaging and surgical robotics.
+short_bio: 
+  Hi! I am Yunrui Zhang (张芸睿), an incoming ECE Ph.D. student at Cornell University. I obtained my bachelor's degree at Tsinghua University, where I was very fortunate to be advised by Prof. Gangtie Zheng, Prof. Mingguo Zhao and Prof. Rebing Wu. \n
 
 
-  Throughout my undergraduate studies, I have always been actively involved in scientific research, exploring a variety of fields. Please feel free to continue scrolling down this page to see more of my research!
+  My research interests lie broadly in the intersection of machine learning and advanced healthcare, including Magnetic Resonance Imaging (MRI), multi-modal medical imaging and surgical robotics. \n
 
 
-  During my leisure time, I am an enthusiast of classic Chinese literature & poetry 📜, contemporary fiction 📖, piano 🎹 and musicals 🎶.
+  Throughout my undergraduate studies, I have always been actively involved in scientific research, exploring a variety of fields. Please feel free to continue scrolling down this page to see more of my research! \n
 
-portrait_url: /assets/images/photos/portrait.jpg
+
+  During my leisure time, I am an enthusiast of classic Chinese literature & poetry 📜, contemporary fiction 📖, piano 🎹 and musicals 🎶. 
+
+portrait_url: /assets/images/photos/portrait.PNG
 portrait_caption: >-
-  Photo taken by Jida on xx/xx/xxxx.
+  Photo taken in Jun 2024.
 
 education:
 - name: Tsinghua University
-  logo: /assets/images/badges/Tsinghua_University_Logo.svg
+  logo: ./assets/images/badges/Tsinghua_University_Logo.svg
   position: B.Eng. in Automation
   date: Sep. 2020 - Jun. 2024
 
 experience:
 - name: University of Illinois Urbana-Champaign
-  logo: /assets/images/badges/UIUC_seal.png
+  logo: ./assets/images/badges/UIUC_seal.png
   position: Summer Research Intern
   date: Jul. 2023 - Sep. 2023
 

@@ -10,7 +10,7 @@ pub_date:       "2024"
 
 abstract: >-
   In this work, we adapted and extended the self-supervised learning-based RAKI method by incorporating the FID dimension into a 3D, complex-valued convolutional network, for MRSI reconstruction. We improved the design by training a single network to handle multi-coil data simultaneously instead of the coil-by-coil interpolation in the original RAKI method. We demonstrate reduced aliasing by the proposed method and consequently improved spatiospectral processing results, using in vivo 1H-MRSI data.
-cover:          /assets/images/covers/cover_RAKI.jpg
+cover:          /assets/images/covers/cover_RAKI.png
 authors:
   - Yunrui Zhang
   - Ruiyang Zhao

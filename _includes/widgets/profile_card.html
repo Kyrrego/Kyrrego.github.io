@@ -29,9 +29,10 @@
                                 style="height: 300px;"
                                 data-toggle="tooltip" 
                                 data-placement="top" 
-                                title="{{ site.data.profile.portrait_caption }}"
                             >
-                            <figcaption class="figure-caption text-right"></figcaption>
+                            <figcaption class="figure-caption text-center">
+                                {{ site.data.profile.portrait_caption | markdownify }}
+                            </figcaption>
                         </figure>
                     </div>
                     {% endif %}

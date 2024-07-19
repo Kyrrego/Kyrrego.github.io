@@ -25,7 +25,8 @@ short_bio:
   During my leisure time, I am an enthusiast of classic Chinese literature & poetry 📜, contemporary fiction 📖, piano 🎹 and musicals 🎶. "
 
 portrait_url: /assets/images/photos/portrait.PNG
-portrait_caption: "Photo taken in Jun 2024 with [Jida](https://giddazhang.github.io/)."
+portrait_caption: >-
+  Photo taken in Jun 2024 with <a href="https://giddazhang.github.io/">Jida</a>.
 
 education:
 - name: Tsinghua University

@@ -30,3 +30,5 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 gem "webrick", "~> 1.7"
 gem "kramdown-parser-gfm"
+
+gem 'jekyll-debug' # use 'bundle exec jekyll serve' to run the local server at http://localhost:4000

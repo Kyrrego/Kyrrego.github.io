@@ -20,11 +20,8 @@ linkedin: yunrui-zhang-5b465b279
 
 short_bio: |
   Hi! I am Yunrui Zhang (张芸睿), an incoming ECE Ph.D. student at Cornell University. I obtained my bachelor's degree at Tsinghua University, where I was very fortunate to be advised by Prof. Gangtie Zheng, Prof. Mingguo Zhao and Prof. Rebing Wu. 
-
   My research interests lie broadly in the intersection of machine learning and advanced healthcare, including Magnetic Resonance Imaging (MRI), multi-modal medical imaging and surgical robotics. 
-
   Throughout my undergraduate studies, I have always been actively involved in scientific research, exploring a variety of fields. Please feel free to continue scrolling down this page to see more of my research! 
-
   During my leisure time, I am an enthusiast of classic Chinese literature & poetry 📜, contemporary fiction 📖, piano 🎹 and musicals 🎶. 
 
 portrait_url: /assets/images/photos/portrait.PNG
@@ -38,7 +35,7 @@ education:
   date: Sep. 2020 - Jun. 2024
 
 experience:
-- name: University of Illinois Urbana-Champaign
+- name: University of Illinois at Urbana-Champaign
   logo: /assets/images/badges/UIUC_seal.png
   position: Summer Research Intern
   date: Jul. 2023 - Sep. 2023
@@ -49,3 +46,5 @@ awards:
   date: 2023, 2022
 - name: First Prize in Beijing Challenge Cup
   date: 2023
+- name: Tsinghua Award of Outstanding Public Service
+  date: 2022

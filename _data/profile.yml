@@ -3,7 +3,7 @@ secondary_name: "张芸睿"
 navbar_name: "Yunrui Zhang"
 
 positions:
-- name: Incoming ECE Ph.D. Student @ Cornell University
+- name: ECE Ph.D. Student @ Cornell University
 - logo: /assets/images/badges/Tsinghua_University_Logo.svg
   name: B.Eng., Tsinghua University (2024)
 
@@ -28,6 +28,10 @@ portrait_caption: >-
   Photo taken in Jun 2024 with <a href="https://giddazhang.github.io/">Jida</a>.
 
 education:
+- name: Cornell University
+  logo: /assets/images/badges/Cornell_University_seal.png
+  position: Ph.D. in Electrical and Computer Engineering
+  date: Aug. 2024 - Present
 - name: Tsinghua University
   logo: /assets/images/badges/Tsinghua_University_Logo.svg
   position: B.Eng. in Automation
@@ -41,6 +45,8 @@ experience:
 
 
 awards:
+- name: Irwin Jacobs Fellowship, Cornell University
+  date: 2024
 - name: Tsinghua Innovation Award of Science and Technology
   date: 2023, 2022
 - name: First Prize in Beijing Challenge Cup

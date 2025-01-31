@@ -2,6 +2,7 @@
 layout: post
 title: "How to set global font in Matplotlib: for non-root users"
 date: 2025-01-31
+excerpt: "One of the interesting battles with Matplotlib and the server. "
 categories: blog
 ---
 

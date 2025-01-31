@@ -1,6 +1,12 @@
 ---
 layout: default
 ---
+<link rel="stylesheet" href="{{ '/assets/css/highlight/catppuccin-latte.css' | relative_url }}">
+<!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/@catppuccin/highlightjs@1.0.0/css/catppuccin-latte.css"> -->
+<script src="{{ '/assets/js/highlight.js' | relative_url }}"></script>
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.js"></script> -->
+<script>hljs.highlightAll();</script>
+
 <h1>{{ page.title }}</h1>
 <p><i>Published on {{ page.date | date: "%B %d, %Y" }}</i></p>
 <hr>

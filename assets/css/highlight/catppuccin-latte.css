@@ -1,0 +1,216 @@
+/* General code block styling */
+code.hljs {
+    color: #4c4f69;
+    background: #eff1f5;
+}
+
+/* Keyword styling */
+code .hljs-keyword {
+    color: #8839ef;
+}
+
+/* Built-in functions and classes */
+code .hljs-built_in {
+    color: #d20f39;
+}
+
+/* Data types */
+code .hljs-type {
+    color: #df8e1d;
+}
+
+/* Literals */
+code .hljs-literal,
+code .hljs-number {
+    color: #fe640b;
+}
+
+/* Operators and punctuation */
+code .hljs-operator {
+    color: #04a5e5;
+}
+
+code .hljs-punctuation {
+    color: #5c5f77;
+}
+
+/* Properties */
+code .hljs-property {
+    color: #179299;
+}
+
+/* Regular expressions */
+code .hljs-regexp {
+    color: #ea76cb;
+}
+
+/* Strings and character escapes */
+code .hljs-string,
+code .hljs-char.escape_ {
+    color: #40a02b;
+}
+
+/* Substitutions */
+code .hljs-subst {
+    color: #6c6f85;
+}
+
+/* Symbols */
+code .hljs-symbol {
+    color: #dd7878;
+}
+
+/* Variables */
+code .hljs-variable,
+code .hljs-variable.language_,
+code .hljs-variable.constant_ {
+    color: #8839ef;
+}
+
+/* Titles */
+code .hljs-title,
+code .hljs-title.function_ {
+    color: #1e66f5;
+}
+
+code .hljs-title.class_ {
+    color: #df8e1d;
+}
+
+/* Parameters */
+code .hljs-params {
+    color: #4c4f69;
+}
+
+/* Comments */
+code .hljs-comment {
+    color: #7c7f93;
+}
+
+/* Documentation tags */
+code .hljs-doctag {
+    color: #d20f39;
+}
+
+/* Meta information */
+code .hljs-meta {
+    color: #fe640b;
+}
+
+/* Sections */
+code .hljs-section {
+    color: #1e66f5;
+}
+
+/* Tags and names */
+code .hljs-tag,
+code .hljs-name {
+    color: #179299;
+}
+
+/* Attributes */
+code .hljs-attr {
+    color: #1e66f5;
+}
+
+code .hljs-attribute {
+    color: #40a02b;
+}
+
+/* Bullets */
+code .hljs-bullet {
+    color: #179299;
+}
+
+/* Inline code */
+code .hljs-code {
+    color: #40a02b;
+}
+
+/* Emphasis */
+code .hljs-emphasis {
+    color: #d20f39;
+    font-style: italic;
+}
+
+/* Strong emphasis */
+code .hljs-strong {
+    color: #d20f39;
+    font-weight: bold;
+}
+
+/* Formulas */
+code .hljs-formula {
+    color: #179299;
+}
+
+/* Links */
+code .hljs-link {
+    color: #209fb5;
+    font-style: italic;
+}
+
+/* Quotes */
+code .hljs-quote {
+    color: #40a02b;
+    font-style: italic;
+}
+
+/* Selectors */
+code .hljs-selector-tag {
+    color: #df8e1d;
+}
+
+code .hljs-selector-id {
+    color: #1e66f5;
+}
+
+code .hljs-selector-class {
+    color: #179299;
+}
+
+code .hljs-selector-attr {
+    color: #8839ef;
+}
+
+code .hljs-selector-pseudo {
+    color: #179299;
+}
+
+/* Template tags and variables */
+code .hljs-template-tag,
+code .hljs-template-variable {
+    color: #dd7878;
+}
+
+/* Additions and deletions */
+code .hljs-addition {
+    color: #40a02b;
+    background: rgba(64, 160, 43, 0.15);
+}
+
+code .hljs-deletion {
+    color: #d20f39;
+    background: rgba(210, 15, 57, 0.15);
+}
+
+/* Ensure code blocks have a uniform background */
+pre {
+    background-color: #eff1f5 !important; /* Set to the same background as your code */
+    padding: 1em;
+    border-radius: 6px;
+    overflow-x: auto;
+}
+
+/* Prevent code elements inside pre from having their own background */
+pre code {
+    background: none !important;
+    color: inherit; /* Ensure it inherits the correct text color */
+}
+
+/* Style inline code separately */
+code {
+    background-color: #eff1f5; /* Light background for inline code */
+    padding: 3px 5px;
+    border-radius: 4px;
+}

@@ -17,6 +17,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 plugins:
   - jekyll-email-protect
 
@@ -37,3 +41,6 @@ plugins:
 collections:
   - publications
   - news
+
+include:
+  - assets

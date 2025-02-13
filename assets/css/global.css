@@ -60,3 +60,20 @@ img.lazy {
     font-family: Courier, monospace;
 }
 
+.like-container {
+    margin-top: 10px;
+}
+
+.like-button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 1.5em;
+    color: red;
+}
+
+.like-button:hover {
+    transform: scale(1.1);
+}
+
+

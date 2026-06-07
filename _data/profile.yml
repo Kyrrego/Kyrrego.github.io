@@ -39,6 +39,10 @@ education:
   date: Sep. 2020 - Jun. 2024
 
 experience:
+- name: Siemens Healthineers
+  logo: /assets/images/badges/siemens-healthineers-hero.png
+  position: Multimodal AI Medical Imaging Research Intern
+  date: May. 2026 - Aug. 2026
 - name: University of Illinois at Urbana-Champaign
   logo: /assets/images/badges/UIUC_seal.png
   position: Summer Research Intern

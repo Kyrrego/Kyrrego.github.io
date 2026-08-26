@@ -16,13 +16,14 @@ github: Kyrrego
 # wechat_qrcode: /assets/images/etc/wechat_qr.JPG
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my WeChat. Thanks!
-linkedin: yunrui-zhang-5b465b279
+linkedin: yunruizhang
 # orcid: 0000-0000-0000-0000
 
 short_bio: | 
-  Hi! I am Yunrui Zhang, a second-year Electrical and Computer Engineering Ph.D. student at Cornell University advised by <a href="https://www.cocolaboratory.com/members">Prof. Amy Kuceyeski</a> and <a href="https://sabuncu.engineering.cornell.edu/">Prof. Mert Sabuncu</a>. I obtained my Bachelor's degree at Tsinghua University, where I was very fortunate to be advised by Prof. Gangtie Zheng, Prof. Mingguo Zhao and Prof. Rebing Wu. <br>
-  My research interests lie broadly in the intersection of machine learning and advanced healthcare problems, including Magnetic Resonance Imaging (MRI)🧠, brain-behavior mapping and surgical robotics🦾. <br>
-  During my leisure time, I am an enthusiast of classic Chinese literature & poetry 📜, fiction 📖, piano 🎹 and musicals 🎶. 
+  Hi! I am Yunrui Zhang, a third-year Electrical and Computer Engineering Ph.D. student at Cornell University advised by <a href="https://www.cocolaboratory.com/members">Prof. Amy Kuceyeski</a> and <a href="https://sabuncu.engineering.cornell.edu/">Prof. Mert Sabuncu</a>. I am currently a research intern at <a href="https://www.siemens-healthineers.com/en-us">Siemens Healthineers</a>, where I work on multimodal AI for medical imaging. <br>
+  I received my Bachelor's degree from Tsinghua University, where I was very fortunate to be advised by Prof. Gangtie Zheng, Prof. Mingguo Zhao and Prof. Rebing Wu. <br>
+  My research interests lie broadly at the intersection of AI/ML and healthcare, with a focus on functional magnetic resonance imaging (fMRI) 🧠, brain-behavior mapping, and surgical robotics 🦾. <br>
+  During my leisure time, I enjoy classic Chinese literature & poetry 📜, fiction 📖, piano 🎹 and musicals 🎶. 
 
 portrait_url: /assets/images/photos/portrait.jpg
 # portrait_caption: >-
@@ -41,8 +42,8 @@ education:
 experience:
 - name: Siemens Healthineers
   logo: /assets/images/badges/siemens-healthineers-hero.png
-  position: Multimodal AI Medical Imaging Research Intern
-  date: May. 2026 - Aug. 2026
+  position: AI Research Intern
+  date: May. 2026 - Present
 - name: University of Illinois at Urbana-Champaign
   logo: /assets/images/badges/UIUC_seal.png
   position: Summer Research Intern

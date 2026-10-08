@@ -19,4 +19,5 @@ authors:
 links:
   Code: https://github.com/Kyrrego/MovieFC_Behav_Mapping
   Paper: https://www.nature.com/articles/s42003-026-10411-9
+  Behind the Paper Blog: https://communities.springernature.com/posts/watching-the-brain-watching-a-movie-or-how-naturalistic-fmri-can-reveal-the-brain-s-inner-workings?channel_id=behind-the-paper
 ---
